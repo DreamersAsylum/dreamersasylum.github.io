@@ -1,0 +1,8 @@
+@import "nord.css";
+body {
+    background-color: var(--nord0);
+}
+
+.bg-dark{
+    background-color: var(--nord2) !important;
+}
